@@ -1,1 +1,4 @@
-{}
+{
+  "origins": ["https://astralcore.top", "http://astralcore.top"],
+  "originsRegex": ["http://localhost:[0-9]+"]
+}
